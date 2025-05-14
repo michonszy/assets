@@ -1,0 +1,8 @@
+{
+    "name": "LajkonikToken",
+    "symbol": "LJK",
+    "type": "ERC20",
+    "decimals": 18,
+    "address": "0x06238a47B790c246f8Fd917261ff96fabeEB61bD"
+  }
+  
